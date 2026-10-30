@@ -1,0 +1,22 @@
+{
+  "wheel_id": 559,
+  "structure": "umbrella",
+  "slug": "ext-db-t1-bathroomrenovationcairns-com-au-150",
+  "project": "bathroom-renovation-cairns-signs-you-need-b41e187643cbadfa5babe",
+  "parent_t1_ref": "ext-db-t1-bathroomrenovationcairns-com-au",
+  "node_role": "buffer",
+  "money_target": "bathroomrenovationcairns.com.au",
+  "primary_kw": "bathroom renovation cairns signs you need",
+  "intended_url": "https://sitesau.github.io/ext-db-t1-bathroomrenovationcairns-com-au-150/",
+  "tier": "T2",
+  "writeback_nonce": "78613ba23e1a1a22",
+  "links": [
+    {
+      "target_url": "https://bathroom-renovation-cairns-handbook.sitesaugpt.chatgpt.site/",
+      "anchor": "bathroom renovation cairns explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
